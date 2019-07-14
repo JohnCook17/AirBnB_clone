@@ -2,3 +2,9 @@
 .filters{background-color: white; height: 70px; width: 100%; border: solid 1px #dddddd; border-radius: 4px;}
 button{font-size: 18px; background-color: #ff5a5f; color: #ffffff; height: 48px; border-radius: 4px; width: 20%; margin-right: 30px; float: right; display: table-cell; vertical-align: middle; position: relative; top: 50%; transform: translateY(-50%);}
 button:hover{opacity: .90;}
+.locations {height: 100%; width: 25%; border-right: solid #dddddd 1px; text-align: left; display: inline-block; vertical-align: middle}
+.amenities {height: 100%; width: 25%; border-right: solid #dddddd 1px; text-align: left; display: inline-block; vertical-align: middle}
+h3 {font-weight: 600;}
+h4 {font-weight: 400;}
+
+ 
