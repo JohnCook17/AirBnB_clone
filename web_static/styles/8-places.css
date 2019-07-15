@@ -1,0 +1,21 @@
+.places{position: relative; display: grid;}
+.places > h1{font-size: 30px; text-align: left; vertical-align: top;}
+.places > article{width: 390px; padding: 20px; margin: 20px; border: solid #ff5a5f 1px; border-radius: 4px; position: relative; display: grid;}
+.places > h2{font-size: 30px; text-align: center;}
+.price_by_night{color: #ff5a5f; border: solid #ff5a5f 4px; border-radius: 50%; min-width: 60px; height: 60px; font-size: 30px; position: absolute; top: 0px; right: 0px; text-align: center; vertical-align: middle; display: inline-block; line-height: 2;}
+.information{height: 80px; border-top: solid #dddddd 1px; border-bottom: solid #dddddd 1px; vertical-align: middle;}
+.max_guest{width: 100px;
+    background-image: url(https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_group.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    display: grid;}
+.number_rooms{width: 100px;
+    background-image: url(https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_bed.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    display: grid;}
+.number_bathrooms{width: 100px;
+    background-image: url(https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_bath.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    display: grid;}
